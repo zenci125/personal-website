@@ -50,7 +50,7 @@ body{
     top: 30%;
     width: 100%;
 }
-.headings{
+.heading1{
     font-family: century;
     font-size: 3rem;
     text-align: center;
@@ -66,4 +66,20 @@ body{
     margin: 10px 10px;
     width: 40px;
     height: 40px;
+}
+
+/* About Section */
+#about {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f2f2f2; 
+    padding: 70px;
+    margin-top: 700px; 
+}
+.heading2{
+    font-size: 3rem;
+}
+.info{
+    font-size: 1.5rem;
 }
