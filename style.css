@@ -15,6 +15,7 @@ body{
     background-color: rgba(59, 59, 59, 0.5);
     position: sticky;
     top: 0;
+    z-index:1000;
 }
 .navbar ul{
     display: flex;
